@@ -1,23 +1,19 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./img/logo.svg";
+import tfjslogo from "./img/tensorflow-js-logo-social.png";
+import "./App.css";
+import TensorFlowJs from "./TensorFlowJs";
 
 function App() {
   return (
     <div className="App">
+      <TensorFlowJs />
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={tfjslogo} className="tf-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <img src={logo} className="react-logo" alt="logo" />
+          Experimenting with Tensorflow.js and React
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );

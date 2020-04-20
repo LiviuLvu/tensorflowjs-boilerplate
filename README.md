@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Tensorflow simple start boilerplate
+
+## Use this repo to quick start a local project for the purpose of experimenting with and learning [tensorflow js](https://www.tensorflow.org/js)
+
+Overview guide https://www.tensorflow.org/js/guide  
+Tensorflow.js api https://js.tensorflow.org/api/1.7.2/  
+Vis api https://js.tensorflow.org/api_vis/1.4.0/
+
+---
+
+Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
