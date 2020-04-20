@@ -6,7 +6,7 @@ Overview guide https://www.tensorflow.org/js/guide
 Tensorflow.js api https://js.tensorflow.org/api/1.7.2/  
 Vis api https://js.tensorflow.org/api_vis/1.4.0/
 
----
+## ![alt text](./src/img/tensorflow-js-logo-social.png "Logo Title Text 1")
 
 Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
